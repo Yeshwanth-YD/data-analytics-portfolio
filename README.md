@@ -11,4 +11,4 @@ Data Analyst | SQL · Python · Power BI | AI-Augmented Analytics | Melbourne
 - Google Data Analytics Certificate (in progress)
 - Anthropic: Building with Claude API
 ## Contact
-chandoluyeshwanth@gmail.com | Melbourne, VIC | Full working rights
+chandoluyeshwanth@gmail.com | VIC | Full working rights
